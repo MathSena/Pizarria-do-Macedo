@@ -1,0 +1,19 @@
+/* geral */
+html {
+	font-family: 'Open sans', 'sans-serif';
+	color: #373A3C;
+}
+
+a {
+	transition: .5s;
+}
+
+/* sidebar */
+
+#sidebar {
+	position: fixed;
+	height: 100%;
+	width: 300px;
+	background-color: #006599;
+	padding-top: 40px;
+}
